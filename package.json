@@ -1,0 +1,26 @@
+{
+  "name": "Tech-Blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emilio-Salazar/Tech-Blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emilio-Salazar/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/Emilio-Salazar/Tech-Blog#readme",
+  "dependencies": {
+    "express-handlebars": "^5.3.3",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  }
+}
